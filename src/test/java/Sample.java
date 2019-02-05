@@ -6,6 +6,9 @@ public class Sample {
 	{
 		
 		System.out.println("Check-in into GIT");
+		
+		int A;
+		int B;
 	}
 
 }

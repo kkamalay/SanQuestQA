@@ -9,6 +9,11 @@ public class Sample {
 		
 		int A;
 		int B;
+		
+		int C;
+		int D;
+		
+		
 	}
 
 }

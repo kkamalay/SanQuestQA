@@ -5,18 +5,9 @@ public class Sample {
 	public static void main(String[] args)
 	{
 		
-		System.out.println("Check-in into GIT");
+		System.out.println("Check-in into gfubkjh");
 		
-		int A;
-		int B;
-		
-		int C;
-		int D;
-		
-		int E;
-		int F;
-		
-		
+		System.out.println("skfsdfsafds");
 	}
 
 }

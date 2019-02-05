@@ -13,6 +13,9 @@ public class Sample {
 		int C;
 		int D;
 		
+		int E;
+		int F;
+		
 		
 	}
 
